@@ -18,7 +18,7 @@ int main() {
 	squareY = sumY * sumY;
 	printf("\nThe sum of the squares : %d", sumX);
 	printf("\nThe sum of the squares : %d", squareY);
-	printf("\n\nDiference between two number is %d - %d = %d", sumX, squareY, squareY-sumX);
+	printf("\n\nDiference between two number is %d - %d = %d",squareY, sumX,  squareY-sumX);
 	return 0;
 }
 
